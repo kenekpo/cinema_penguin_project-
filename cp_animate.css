@@ -22,7 +22,7 @@ nav#topLinks a {
    transition:color 1.5s ease-in 0.5s,
    font-size 2s ease, 
    letter-spacing 2s ease-out,
-   g text-shadow 2s cubic-bezier (0.6, 0, 0.8, 0.5);
+   text-shadow 2s cubic-bezier (0.6, 0, 0.8, 0.5);
   }
   nav#topLinks a:hover {
    color: rgb(255, 183, 25);
